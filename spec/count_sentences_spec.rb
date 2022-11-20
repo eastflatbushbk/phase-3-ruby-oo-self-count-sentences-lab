@@ -46,3 +46,4 @@ describe String do
   end
 
 end
+# self.split(/\.|\?|!/).filter { |sentence| !sentence.empty? }.size
